@@ -9,6 +9,7 @@ This Github is entirely dedicated to changelogs, issues, and the wiki. The code 
  
  Changelog
  ------
+ https://github.com/EncubedGaming/ChATBot/blob/main/changelog.txt
  
  TLDR
  -----

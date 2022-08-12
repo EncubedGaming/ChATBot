@@ -5,6 +5,10 @@ This Github is entirely dedicated to changelogs, issues, and the wiki. The code 
  
  Wiki
  ---------
+ https://github.com/EncubedGaming/ChATBot/wiki
+ 
+ Changelog
+ ------
  
  TLDR
  -----

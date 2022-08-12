@@ -3,10 +3,11 @@ A funny bot that does funny things
 ------------------------------------
 This Github is entirely dedicated to changelogs, issues, and the wiki. The code isnt here
  
- 
+ Wiki
+ ---------
  
  TLDR
- -
+ -----
  
  Cat : Cat, pussy, meow, kitty, 0.5 points
  

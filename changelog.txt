@@ -3,3 +3,4 @@ V1.18.1 Aug 12, 2022 : Created a Wiki!
 V1.19 Oct 1, 2022 : Went to sleep and alarm clock didnt work. Fixed an issue where users who get their first reacton only get one point
 V1.19.1 Oct 1, 2022 : Added human heart. 1/1000 chance. 100 points. Suggested by eeveecraft123#9467
 V1.19.2 Oct 1, 2022 : Fixed a small bug where heart wasnt 100 points, it was 500
+V1.19.3 Oct 2, 2022 : Removed username searching for cat. Could be annoying to users

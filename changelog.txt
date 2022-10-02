@@ -1,3 +1,4 @@
 V1.18 Aug 12, 2022 : Created a changelog so Discord wont keep deleting the activity one!
 V1.18.1 Aug 12, 2022 : Created a Wiki!
 V1.19 Oct 1, 2022 : Went to sleep and alarm clock didnt work. Fixed an issue where users who get their first reacton only get one point
+V1.19.1 Oct 1, 2022 : Added human heart. 1/1000 chance. 100 points. Suggested by eeveecraft123#9467
